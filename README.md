@@ -14,6 +14,12 @@ python-projects/
     - marks-calculator/
 - advanced/
     - combined-grocery-tracker/
+    - cafe-loyalty-program/
+    - coffee-shop/
+    - expense-tracker/
+    - grocery-store/
+    - library-book-system/
+    - movie-ticket-system/
 
 ## 🗂️ Projects Overview
 
@@ -28,6 +34,12 @@ python-projects/
 
 ### 🟠 Advanced
 - Combined Grocery Tracker : Calculates bill using dictionary
+- Cafe Loyalty Program : Tracks customers points and lets them redeem free coffees
+- Coffee Shop : Calculates bill for different coffee types
+- Expense Tracker : Tracks expenses intelligently using dictionaries and lists
+- Grocery Store : Calculates bill for different items in a grocery store
+- Library Book System : Tracks customers fines and book history
+- Movie Ticket System : Calculates ticket types for customers
 
 ## 🛠️ How to Run Any Project
 1. Make sure you have python installed
@@ -38,6 +50,7 @@ python-projects/
 - Variables and data types
 - Conditions and loops
 - Functions
+- Error handling
 - Arrays and strings
 - User input handling
 
